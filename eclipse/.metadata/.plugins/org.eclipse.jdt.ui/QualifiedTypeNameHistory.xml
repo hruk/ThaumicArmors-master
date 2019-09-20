@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.armors.ItemCrimsonRanger"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicComboBoxUI.ItemHandler"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.init.ILifeCycleHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.api.ThaumicArmorsApi"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.init.TAItems"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.Tabs.TATabs"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.thaumic_armors"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.api.APIUtils"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.CommonProxythaumic_armors"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.init.InitHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent.Register"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="net.mcreator.thaumic_armors.init.ItemHandler"/>
+</qualifiedTypeNameHistroy>

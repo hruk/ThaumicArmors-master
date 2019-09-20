@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ILifeCycleHandler.java&apos; to &apos;MDKExample/src/main/java/net.mcreator.thaumic_armors.init&apos;&#x0D;&#x0A;- Original project: &apos;AbyssalCraft-master&apos;&#x0D;&#x0A;- Destination element: &apos;MDKExample/src/main/java/net.mcreator.thaumic_armors.init&apos;&#x0D;&#x0A;- Original element: &apos;ILifeCycleHandler.java&apos;" description="Copy file" destination="=MDKExample/src\/main\/java&lt;net.mcreator.thaumic_armors.init" element1="src/main/java/com/shinoow/abyssalcraft/init/ILifeCycleHandler.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568191044128" units="0" version="1.0"/>
+</session>

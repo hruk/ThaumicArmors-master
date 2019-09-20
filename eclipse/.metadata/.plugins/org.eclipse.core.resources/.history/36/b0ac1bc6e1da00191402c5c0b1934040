@@ -1,0 +1,5 @@
+package net.mcreator.thaumic_armors.init;
+
+public class InitHandler {
+
+}
